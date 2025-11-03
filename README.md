@@ -5,7 +5,7 @@
 
 <!-- 🖼️ Banner -->
 <p align="center" style="background-color:#f3f4f6; padding: 12px; border-radius: 12px;">
-  <img src="./assets/banner0.jpg" alt="bibi banner" width="100%" style="border-radius:12px;" />
+  <img src="./assets/banner1.jpg" alt="bibi banner" width="90%" style="border-radius:12px;" />
 </p>
 
 <!-- 🩵 Intro -->
@@ -34,14 +34,9 @@ My work blends **art, motion, and chill energy** — I like when things just *fe
 ### 🧰 Tech & Tools
 
 <p align="center">
-  <!-- art & design -->
-  <img src="https://skillicons.dev/icons?i=figma,blender,photoshop,illustrator&theme=dark&perline=8" width="100"/>
-  <br/>
-  <!-- code -->
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,cpp,lua,js&theme=dark&perline=8" width="100"/>
-  <br/>
+
   <!-- misc -->
-  <img src="https://skillicons.dev/icons?i=godot,neovim,arch,vscode,github&theme=dark&perline=8" width="100"/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,cpp,lua,js,figma,blender,photoshop,godot,neovim,arch,vscode,github&theme=dark&perline=27" width="350"/>
 </p>
 
 ---
@@ -79,7 +74,7 @@ My work blends **art, motion, and chill energy** — I like when things just *fe
 <p align="center">
   <img src="./assets/avatar.gif" width="80px" alt="bibi avatar"/>
   <br/>
-  <img src="./assets/dance.gif" width="160px" alt="bibi dancing"/>
+  <img src="./assets/dance.gif" width="80px" alt="bibi dancing"/>
   <br/>
   <sub><em>“building small worlds that feel alive.”</em></sub>
 </p>
