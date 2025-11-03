@@ -5,7 +5,7 @@
 
 <!-- 🖼️ Banner -->
 <p align="center" style="background-color:#f3f4f6; padding: 12px; border-radius: 12px;">
-  <img src="./assets/banner.png" alt="bibi banner" width="100%" style="border-radius:12px;" />
+  <img src="./assets/banner0.jpg" alt="bibi banner" width="100%" style="border-radius:12px;" />
 </p>
 
 <!-- 🩵 Intro -->
