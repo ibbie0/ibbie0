@@ -52,9 +52,12 @@ My work blends **art, motion, and chill energy** — I like when things just *fe
 
 ### 💫 Currently
 
-🧠 learning → idk I
+🧠 learning → styling on css
+
 🎮 playing → Hell nah I'm not playing 😤, jk.. I'm playing Minecraft 😊
+
 💘 favorite character → Evlyn, Baldurs gate
+
 🎧 mood → pixel lights & lo-fi sounds
 
 ---
@@ -63,9 +66,9 @@ My work blends **art, motion, and chill energy** — I like when things just *fe
 
 <p align="center">
   <a href="https://github.com/ibbie0"><img src="https://img.shields.io/badge/GitHub-ibbie0-181717?style=flat&logo=github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-bibi-7289DA?style=flat&logo=discord" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-bibi-FF0000?style=flat&logo=youtube" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-@bibi-E4405F?style=flat&logo=instagram" /></a>
+  <a href="https://discord.gg/7uYweRR6"><img src="https://img.shields.io/badge/Discord-bibi-7289DA?style=flat&logo=discord" /></a>
+  <a href="https://www.youtube.com/@Ezdevganteng"><img src="https://img.shields.io/badge/YouTube-bibi-FF0000?style=flat&logo=youtube" /></a>
+  <a href="https://www.instagram.com/akhbbii"><img src="https://img.shields.io/badge/Instagram-@bibi-E4405F?style=flat&logo=instagram" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-coming%20soon-0A66C2?style=flat&logo=linkedin" /></a>
 </p>
 
