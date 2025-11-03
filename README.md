@@ -1,20 +1,86 @@
-<div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there;I'm+Bibi%2C+a+human+being+%E2%9C%A9" width="70%" />
-<br><br>
-<pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
-</pre>
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
-</div>
+<!-- ========================================================= -->
+<!--                     ibbie0 / bibi README                   -->
+<!--            theme: soft anime-inspired pastel dark          -->
+<!-- ========================================================= -->
+
+<!-- 🖼️ Banner -->
+<p align="center">
+  <img src="./assets/banner.png" alt="bibi banner" width="100%" />
+</p>
+
+<!-- 🩵 Intro -->
+<h1 align="center">hey, i'm <b>bibi</b> 🌙</h1>
+<h3 align="center">artist • designer • developer</h3>
+
+<p align="center">
+  <em>“make it flow, make it glow.”</em>
+</p>
+
+---
+
+### 🎨 About Me
+
+I'm an artist and designer who sometimes codes.  
+I love creating visuals, crafting UI, and experimenting with small game systems.  
+My work blends **art, motion, and chill energy** — I like when things just *feel right.*
+
+- 🧩 I make: logos, posters, UI designs, wallpapers, and pixel assets  
+- 🧠 Learning: HTML, CSS, Java, Lua, Python, C++, and Godot  
+- 🎮 Also create: 3D items, characters, and game GFX (Minecraft, Roblox, etc.)  
+- ☕ vibe: lo-fi nights + smooth color palettes  
+
+---
+
+### 🧰 Tech & Tools
+
+<p align="center">
+  <!-- art & design -->
+  <img src="https://skillicons.dev/icons?i=figma,blender,photoshop,illustrator&theme=dark" />
+  <br/>
+  <!-- code -->
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,cpp,lua,js&theme=dark" />
+  <br/>
+  <!-- misc -->
+  <img src="https://skillicons.dev/icons?i=godot,neovim,archlinux,vscode,github&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibbie0&show_icons=true&theme=catppuccin_mocha&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibbie0&layout=compact&theme=catppuccin_mocha&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 💫 Currently
+
+🧠 learning → idk I
+🎮 playing → Hell nah I'm not playing 😤, jk.. I'm playing Minecraft 😊
+💘 favorite character → Evlyn, Baldurs gate
+🎧 mood → pixel lights & lo-fi sounds
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/ibbie0"><img src="https://img.shields.io/badge/GitHub-ibbie0-181717?style=flat&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-bibi-7289DA?style=flat&logo=discord" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-bibi-FF0000?style=flat&logo=youtube" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-@bibi-E4405F?style=flat&logo=instagram" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-coming%20soon-0A66C2?style=flat&logo=linkedin" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/avatar.gif" width="80px" alt="bibi avatar"/><br/>
+  <sub><em>“building small worlds that feel alive.”</em></sub>
+</p>
+
+<!-- ========================================================= -->
+<!--                  end of profile README                    -->
+<!-- ========================================================= -->
