@@ -17,10 +17,10 @@
 
 ### 🌸 About Me
 
-🎨 I'm a digital artist & designer who loves crafting visuals — from **logos, posters, and wallpapers** to **UI layouts** and **game assets**.  
-🧠 I also explore code — learning **Java**, **HTML**, **CSS**, and a few others along the way.  
-🕹️ Sometimes I build small things in **Godot** or **It’s Magic Engine**, mixing art and gameplay.  
-🌐 Currently working on organizing my online presence (GitHub, YouTube, Discord, etc.) into one professional identity.  
+- 🎨 I'm a digital artist & designer who loves crafting visuals — from **logos, posters, and wallpapers** to **UI layouts** and **game assets**.  
+- 🧠 I also explore code — learning **Java**, **HTML**, **CSS**, and a few others along the way.  
+- 🕹️ Sometimes I build small things in **Godot** or **It’s Magic Engine**, mixing art and gameplay.  
+- 🌐 Currently working on organizing my online presence (GitHub, YouTube, Discord, etc.) into one professional identity.  
 
 > “Still learning, still building, still vibing.”  
 
