@@ -1,33 +1,28 @@
-<!-- ========================================================= -->
-<!--                     ibbie0 / bibi README                   -->
-<!--            theme: soft anime-inspired pastel dark          -->
-<!-- ========================================================= -->
-
-<!-- 🖼️ Banner -->
-<p align="center" style="background-color:#f3f4f6; padding: 12px; border-radius: 12px;">
-  <img src="./assets/banner1.jpg" alt="bibi banner" width="90%" style="border-radius:12px;" />
+<p align="center" style="background:#f6f7f8; padding:16px; border-radius:16px;">
+  <img src="./assets/banner.png" alt="bibi banner" width="100%" style="border-radius:12px;"/>
 </p>
 
-<!-- 🩵 Intro -->
-<h1 align="center">hey, i'm <b>bibi</b> 🌙</h1>
-<h3 align="center">artist • designer • developer</h3>
+<br/>
+
+<h1 align="center">✨ Heya, I'm <span style="color:#9b8ee8;">bibi</span>!</h1>
+<p align="center">
+  <em>artist • designer • beginner developer</em>  
+</p>
 
 <p align="center">
-  <em>“make it flow, make it glow.”</em>
+  <sub><em>“Creating small worlds that feel alive.”</em></sub>
 </p>
 
 ---
 
-### 🎨 About Me
+### 🌸 About Me
 
-I'm an artist and designer who sometimes codes.  
-I love creating visuals, crafting UI, and experimenting with small game systems.  
-My work blends **art, motion, and chill energy** — I like when things just *feel right.*
+🎨 I'm a digital artist & designer who loves crafting visuals — from **logos, posters, and wallpapers** to **UI layouts** and **game assets**.  
+🧠 I also explore code — learning **Java**, **HTML**, **CSS**, and a few others along the way.  
+🕹️ Sometimes I build small things in **Godot** or **It’s Magic Engine**, mixing art and gameplay.  
+🌐 Currently working on organizing my online presence (GitHub, YouTube, Discord, etc.) into one professional identity.  
 
-- 🧩 I make: logos, posters, UI designs, wallpapers, and pixel assets  
-- 🧠 Learning: HTML, CSS, Java, Lua, Python, C++, and Godot  
-- 🎮 Also create: 3D items, characters, and game GFX (Minecraft, Roblox, etc.)  
-- ☕ vibe: lo-fi nights + smooth color palettes  
+> “Still learning, still building, still vibing.”  
 
 ---
 
