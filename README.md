@@ -25,16 +25,6 @@
 > “Still learning, still building, still vibing.”  
 
 ---
-
-### 🧰 Tech & Tools
-
-<p align="center">
-
-  <!-- misc -->
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,cpp,lua,js,figma,blender,photoshop,godot,neovim,arch,vscode,github&theme=dark&perline=27" width="350"/>
-</p>
-
----
 <!--
 ### 📊 GitHub Stats
 
@@ -54,14 +44,12 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🧰 Tech & Tools
 
 <p align="center">
-  <a href="https://github.com/ibbie0"><img src="https://img.shields.io/badge/GitHub-ibbie0-181717?style=flat&logo=github" /></a>
-  <a href="https://discord.gg/7uYweRR6"><img src="https://img.shields.io/badge/Discord-bibi-7289DA?style=flat&logo=discord" /></a>
-  <a href="https://www.youtube.com/@Ezdevganteng"><img src="https://img.shields.io/badge/YouTube-bibi-FF0000?style=flat&logo=youtube" /></a>
-  <a href="https://www.instagram.com/akhbbii"><img src="https://img.shields.io/badge/Instagram-@bibi-E4405F?style=flat&logo=instagram" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-coming%20soon-0A66C2?style=flat&logo=linkedin" /></a>
+
+  <!-- misc -->
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,cpp,lua,js,figma,blender,photoshop,godot,neovim,arch,vscode,github&theme=dark&perline=27" width="350"/>
 </p>
 
 ---
@@ -72,6 +60,19 @@
   <br/>
   <sub><em>“building small worlds that feel alive.”</em></sub>
 </p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/ibbie0"><img src="https://img.shields.io/badge/GitHub-ibbie0-181717?style=flat&logo=github" /></a>
+  <a href="https://discord.gg/7uYweRR6"><img src="https://img.shields.io/badge/Discord-bibi-7289DA?style=flat&logo=discord" /></a>
+  <a href="https://www.youtube.com/@Ezdevganteng"><img src="https://img.shields.io/badge/YouTube-bibi-FF0000?style=flat&logo=youtube" /></a>
+  <a href="https://www.instagram.com/akhbbii"><img src="https://img.shields.io/badge/Instagram-@bibi-E4405F?style=flat&logo=instagram" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-coming%20soon-0A66C2?style=flat&logo=linkedin" /></a>
+</p>
+
 
 <!-- ========================================================= 
                   end of profile README                    
