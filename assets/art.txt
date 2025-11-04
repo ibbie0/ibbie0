@@ -1,1 +1,70 @@
+<!-- 🩵 Bibi / ibbie0 GitHub Profile Preview v2 -->
 
+<p align="center" style="background:#f6f7f8; padding:16px; border-radius:16px;">
+  <img src="./assets/banner.png" alt="bibi banner" width="100%" style="border-radius:12px;"/>
+</p>
+
+<br/>
+
+<h1 align="center">✨ Heya, I'm <span style="color:#9b8ee8;">bibi</span>!</h1>
+<p align="center">
+  <em>artist • designer • beginner developer</em>  
+</p>
+
+<p align="center">
+  <sub><em>“Creating small worlds that feel alive.”</em></sub>
+</p>
+
+---
+
+### 🌸 About Me
+
+🎨 I'm a digital artist & designer who loves crafting visuals — from **logos, posters, and wallpapers** to **UI layouts** and **game assets**.  
+🧠 I also explore code — learning **Java**, **HTML**, **CSS**, and a few others along the way.  
+🕹️ Sometimes I build small things in **Godot** or **It’s Magic Engine**, mixing art and gameplay.  
+🌐 Currently working on organizing my online presence (GitHub, YouTube, Discord, etc.) into one professional identity.  
+
+> “Still learning, still building, still vibing.”  
+
+---
+
+### 🧰 Tech & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,blender,photoshop,illustrator&theme=dark&perline=8" width="320"/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,cpp,lua,js&theme=dark&perline=8" width="340"/><br/>
+  <img src="https://skillicons.dev/icons?i=godot,neovim,archlinux,vscode,github&theme=dark&perline=8" width="280"/>
+</p>
+
+---
+
+### 🪩 Current Focus
+
+- 🎭 Building a more cohesive personal brand (with matching visuals)  
+- 🎮 Learning game dev pipelines from sketch → animation → prototype  
+- 🧩 Organizing portfolio content for **Ko-fi** / **LinkedIn** / **ArtStation**  
+- 🌱 Learning better GitHub & project workflow  
+
+---
+
+<p align="center">
+  <img src="./assets/divider.png" alt="divider" width="50%"/>
+</p>
+
+### 📈 GitHub Stats (coming soon)
+
+You can later add:
+- `github-readme-stats`
+- `streak-stats`
+- `activity graph`
+- or your own pixel-styled stat cards  
+
+*(I’ll help you set that up once you want your stats to start tracking)*
+
+---
+
+<p align="center">
+  <img src="./assets/avatar.gif" width="80px" alt="bibi avatar"/><br/>
+  <img src="./assets/dance.gif" width="160px" alt="bibi dancing"/><br/>
+  <sub><em>“Thanks for scrolling!”</em></sub>
+</p>
