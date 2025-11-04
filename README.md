@@ -35,7 +35,7 @@
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -44,16 +44,13 @@
 </p>
 
 ---
+-->
+### 🪩 Current Focus
 
-### 💫 Currently
-
-🧠 learning → styling on css
-
-🎮 playing → Hell nah I'm not playing 😤, jk.. I'm playing Minecraft 😊
-
-💘 favorite character → Evlyn, Baldurs gate
-
-🎧 mood → pixel lights & lo-fi sounds
+- 🎭 Building a more cohesive personal brand 
+- 🎮 playing → Minecraft 😊
+- 🧩 Organizing portfolio content for **Ko-fi** / **LinkedIn** / **ArtStation**  
+- 🌱 Learning better GitHub & project workflow  
 
 ---
 
@@ -71,12 +68,11 @@
 
 <p align="center">
   <img src="./assets/avatar.gif" width="80px" alt="bibi avatar"/>
-  <br/>
   <img src="./assets/dance.gif" width="80px" alt="bibi dancing"/>
   <br/>
   <sub><em>“building small worlds that feel alive.”</em></sub>
 </p>
 
-<!-- ========================================================= -->
-<!--                  end of profile README                    -->
-<!-- ========================================================= -->
+<!-- ========================================================= 
+                  end of profile README                    
+ ========================================================= -->
